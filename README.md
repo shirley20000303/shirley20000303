@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - so cool hahahaha🤔
+- go
+- ts and js
 
 <!---
 shirley20000303/shirley20000303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
